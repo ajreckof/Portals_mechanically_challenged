@@ -1,0 +1,3 @@
+[submodule "Godot4/GDScript/portal"]
+	path = Godot4/GDScript/ajreckof
+	url = https://github.com/ajreckof/portal
